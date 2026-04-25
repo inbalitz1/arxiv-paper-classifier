@@ -1,5 +1,6 @@
 # Academic Paper Classification using Zero-Shot Learning
 ## Subject Indexing & NLP Project
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AkZVXnjOMT9xjs40CPxRY3kqSRVoDQau?usp=sharing)
 
 ### Project Overview
 As a librarian in an academic setting, I developed this project to automate the classification of research papers from the arXiv dataset. Using Natural Language Processing (NLP), the system categorizes academic abstracts into broader disciplines (Physics, Computer Science, etc.) without requiring pre-labeled training data.
